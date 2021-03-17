@@ -7,5 +7,5 @@ samsung = [
 ]
 
 df = pd.DataFrame(samsung)
-
+print(samsung)
 print(df)
